@@ -1,0 +1,4 @@
+baseURL = 'https://pacey-li.github.io/'
+languageCode = 'en-us'
+title = '多格的小站'
+theme = 'ananke'
